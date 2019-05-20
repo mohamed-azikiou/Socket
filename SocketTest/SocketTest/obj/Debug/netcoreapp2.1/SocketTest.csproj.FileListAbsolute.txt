@@ -1,0 +1,11 @@
+C:\Users\mbi\source\repos\SocketTest\SocketTest\bin\Debug\netcoreapp2.1\SocketTest.deps.json
+C:\Users\mbi\source\repos\SocketTest\SocketTest\bin\Debug\netcoreapp2.1\SocketTest.runtimeconfig.json
+C:\Users\mbi\source\repos\SocketTest\SocketTest\bin\Debug\netcoreapp2.1\SocketTest.runtimeconfig.dev.json
+C:\Users\mbi\source\repos\SocketTest\SocketTest\bin\Debug\netcoreapp2.1\SocketTest.dll
+C:\Users\mbi\source\repos\SocketTest\SocketTest\bin\Debug\netcoreapp2.1\SocketTest.pdb
+C:\Users\mbi\source\repos\SocketTest\SocketTest\obj\Debug\netcoreapp2.1\SocketTest.csprojAssemblyReference.cache
+C:\Users\mbi\source\repos\SocketTest\SocketTest\obj\Debug\netcoreapp2.1\SocketTest.csproj.CoreCompileInputs.cache
+C:\Users\mbi\source\repos\SocketTest\SocketTest\obj\Debug\netcoreapp2.1\SocketTest.AssemblyInfoInputs.cache
+C:\Users\mbi\source\repos\SocketTest\SocketTest\obj\Debug\netcoreapp2.1\SocketTest.AssemblyInfo.cs
+C:\Users\mbi\source\repos\SocketTest\SocketTest\obj\Debug\netcoreapp2.1\SocketTest.dll
+C:\Users\mbi\source\repos\SocketTest\SocketTest\obj\Debug\netcoreapp2.1\SocketTest.pdb
